@@ -67,7 +67,8 @@ A full-stack book trading and management system.
 
 ## 🌐 Links
 
-- 🎮 Game: https://shashbo.com  
+- 🎮 Game: https://shashbo.com
+- shashbo.itch.io/intestines
 
 ---
 
